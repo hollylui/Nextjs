@@ -1,0 +1,6 @@
+.h1 {
+  @apply text-gray-800;
+  @apply text-3xl;
+  @apply lg:text-4xl;
+  @apply xl:text-5xl;
+}
